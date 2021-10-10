@@ -16,4 +16,4 @@ Upload the code as the part of the internship assessment
 **第三点：学习输入输出，变量，赋值，浮点数，类型转换，判断，while语句，for循环,数组......**
 
 
-**第四点：学习方法简单的定义与调用，字符，Math类型，包裹类型......**
+**第四点：学习方法简单的定义与调用，字符串，Math类型......**
